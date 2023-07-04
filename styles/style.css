@@ -1,0 +1,23 @@
+.container{
+  height: 657px;
+  width: 468px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+}
+
+.right{
+  background-color: red;
+  height: 657px;
+  width: 110px;
+  float: right;
+}
+
+.left{
+  background-color: green;
+  height: 657px;
+  width: 110px;
+  float: left;
+}
